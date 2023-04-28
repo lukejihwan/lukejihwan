@@ -2,6 +2,7 @@
 
 ## 🚀About Me
 🎓I am Jihwan, a Back End Developer.
+Java를 주언어로 하는 백엔드 개발자입니다
 
 ## 🛠️Skills
 ⚡used as the main \
