@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## 🚀About Me
 🎓I am Jihwan, a Back End Developer. \
 Java가 주언어인 백엔드 개발자입니다
@@ -11,6 +9,7 @@ Java가 주언어인 백엔드 개발자입니다
 
 ⚡used at least once \
 <img src="https://img.shields.io/badge/linux-F7DF1E?style=for-the-badge&logo=linux&logoColor=white">
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukejihwan&show_icons=true&theme=radical)
 
