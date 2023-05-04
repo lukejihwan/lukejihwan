@@ -2,6 +2,9 @@
 🎓I am Jihwan, a Back End Developer. \
 Java가 주언어인 백엔드 개발자입니다
 
+## experience
+1. javaEE 운동커뮤니티 구축 경험: 기상청, 영양성분openAPI를 활용하였고, spring적용, mybatis 와 mysql을 연동하여 구축하였음
+
 ## 🛠️Skills
 ⚡used as the main \
 <img src="https://img.shields.io/badge/java-F37C20?style=for-the-badge&logo=java&logoColor=white">
