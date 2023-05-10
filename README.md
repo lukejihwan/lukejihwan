@@ -3,7 +3,9 @@
 Java가 주언어인 백엔드 개발자입니다
 
 ## experience
-1. javaEE 운동커뮤니티 구축 경험: 기상청, 영양성분openAPI를 활용하였고, spring적용, mybatis 와 mysql을 연동하여 구축하였음
+1. javaEE 운동커뮤니티 구축 경험: 기상청, 영양성분openAPI를 활용하여, mybatis 와 mysql을 연동하여 구축
+2. html, css, javascript를 사용하여 팩맨게임(클론)을 만듬.
+3. javaSE를 사용하여 oracle DB와 연동한 음식나눔 플랫폼 구축
 
 ## 🛠️Skills
 ⚡used as the main \
