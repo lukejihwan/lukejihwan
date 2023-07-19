@@ -8,21 +8,33 @@ Java가 주언어인 백엔드 개발자입니다
 3. javaSE를 사용한 Swing기반의 oracle DB와 연동한 음식나눔 플랫폼 구축
 4. spring을 사용한 model1방식의 쇼핑몰 구현
 
-## 🛠️Skills
-⚡used as the main <br>
-<img src="https://img.shields.io/badge/java-F37C20?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+<div align=center>
+  
+## 🛠️Skills🛠️
 
-⚡used at least once <br>
-<img src="https://img.shields.io/badge/linux-F7DF1E?style=for-the-badge&logo=linux&logoColor=white">
+### ✨✨✨Back-end✨✨✨
 
+### ⚡Language⚡
+<img src="https://img.shields.io/badge/java-F37C20?style=for-the-badge&logo=coffeescript&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+
+### ⚡OS⚡
+<img src="https://img.shields.io/badge/windows-0078d6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/linux-F7DF1E?style=for-the-badge&logo=linux&logoColor=white">
+
+### ⚡Framework & Library⚡
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mybatis-ff9900?style=for-the-badge&logo=amazonecs&logoColor=white"> <img src="https://img.shields.io/badge/hibernate-59666c?style=for-the-badge&logo=hibernate&logoColor=white">
+
+### ⚡Database⚡
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/oracle-f80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+
+### ✨✨✨Front-end✨✨✨
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+
+### ⚡Development Tool⚡
+<img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/eclipse-2c2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/visualstudiocode-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+
+### ⚡ETC⚡
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukejihwan&show_icons=true&theme=radical)
 
