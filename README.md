@@ -3,10 +3,9 @@ I am Jihwan, a Back End Developer. <br>
 Java가 주언어인 백엔드 개발자입니다
 
 ## 🤖Experience
-- javaEE 운동커뮤니티 구축 경험: 기상청, 영양성분openAPI를 활용하여, mybatis 와 mysql을 연동하여 구축
-- html, css, javascript를 사용하여 팩맨게임 개발
-- javaSE를 사용한 Swing기반의 oracle DB와 연동한 음식나눔 플랫폼 구축
-- spring을 사용한 model1방식의 쇼핑몰 구현
+- [기상청, 영양성분openAPI를 활용하여, mybatis 와 mysql을 연동한 건강관리커뮤니티 구축](https://github.com/lukejihwan/Bodybuddy_project)
+- [javaSE를 사용한 Swing기반의 oracle DB와 연동한 음식나눔 플랫폼 구축](https://github.com/lukejihwan/foodSharing_platform-project)
+- [html, css, javascript를 사용하여 팩맨게임 개발](https://github.com/lukejihwan/pac-man-project)
 
 <div align=center>
   
