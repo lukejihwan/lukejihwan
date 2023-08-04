@@ -15,7 +15,7 @@ Java가 주언어인 백엔드 개발자입니다. <br>
 ### ✨✨✨Back-end✨✨✨
 
 ### ⚡Language⚡
-<img src="https://img.shields.io/badge/java-F37C20?style=for-the-badge&logo=coffeescript&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/java-F37C20?style=for-the-badge&logo=coffeescript&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
 ### ⚡OS⚡
 <img src="https://img.shields.io/badge/windows-0078d6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/linux-F7DF1E?style=for-the-badge&logo=linux&logoColor=white">
