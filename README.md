@@ -37,7 +37,7 @@ Java가 주언어인 백엔드 개발자입니다. <br>
 <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/eclipse-2c2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/visualstudiocode-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
 ### ⚡ETC⚡
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/gitactions-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/gitactions-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
 <div align=center>
