@@ -4,7 +4,7 @@ Java가 주언어인 백엔드 개발자입니다. <br>
 사회, 경제적 문제를 인식하고 해결해 나가는 해결사의 역할을 하겠습니다.
 
 ## 🔭 I’m currently working on
-<b>Rethink</b> Back-end 2023-08~
+<b>Rethink</b> Back-end developer 2023-08~
 
 ## 🤖Experience
 - [기상청, 영양성분openAPI를 활용하여, mybatis 와 mysql을 연동한 건강관리커뮤니티 구축](https://github.com/lukejihwan/Bodybuddy_project)
