@@ -1,6 +1,6 @@
 ## 🚀About Me
 I am Jihwan, a Back End Developer. <br>
-Java가 주언어인 백엔드 개발자입니다. <br>
+Java, php가 주언어인 백엔드 개발자입니다. <br>
 사회, 경제적 문제를 인식하고 해결해 나가는 해결사의 역할을 하겠습니다.
 
 ## 🔭 I’m currently working on
