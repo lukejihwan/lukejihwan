@@ -11,6 +11,7 @@ Java, php가 주언어인 백엔드 개발자입니다. <br>
 - [javaSE를 사용한 Swing기반의 oracle DB와 연동한 음식나눔 플랫폼 구축](https://github.com/lukejihwan/foodSharing_platform-project)
 - [html, css, javascript를 사용하여 팩맨게임 개발](https://github.com/lukejihwan/pac-man-project)
 - 케이크 주문제작 프로젝트
+- 국내 축제 한 눈에 사이트 프로젝트
 
 ## 🎓study
 <b>Blog</b> : https://velog.io/@luke9701
